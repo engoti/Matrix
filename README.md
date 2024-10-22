@@ -26,7 +26,7 @@ This repository contains a MATLAB script to solve a system of linear equations u
 run('example.m')
 
 3. The Equation it is solving in MATRIX form;
-2x + 1y = 5
+2x + 1y = 5  
 1x + 3y = 8
 
 
